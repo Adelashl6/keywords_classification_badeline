@@ -16,10 +16,10 @@ And move them into ./data/keyword_extraction
 # train
 run the file train_C3D_keywords_classification.py
 
-#test
+# test
 run the file test_C3D_keywords_classification.py
 
-#model
+# model
 The model can be downloaded from: 
 https://drive.google.com/file/d/1auAoWbTInGsp9nNol3U6rxq1hor4J3Cm/view?usp=sharing
 And move it to ./ckpt
