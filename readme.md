@@ -1,4 +1,4 @@
-The basic model for keywords classification
+Implement the baseline model for keywords classification
 
 # dataset: 3k miniset from HowTo100M datasets
 The keyword annotation file can be downloaded from: 
