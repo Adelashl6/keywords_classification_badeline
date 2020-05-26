@@ -6,12 +6,17 @@ https://drive.google.com/file/d/1NB1rd9wd9h1GzyG9exz9uRx3oUcNMHZY/view?usp=shari
 And move it to ./data/keyword_extraction
 
 # preprocess
-run the preprocess_keywords.py to generate the corresponding files.\n
+run the preprocess_keywords.py to generate the corresponding files.
+
 train_recipe_3k_keyword.pkl: regenerate the keyword annotation file into a format that can easily be loaded.
+
 vovab.pkl: collect the keywords of the whole dataset as a corpus
+
 split.pkl: split the dataset into training and validation datasets and restore the video_ids for training and validation sets
+
 The files can be downloaded from:
 https://drive.google.com/drive/folders/1h7reIb_YuJRReeLtqeTcZ1TG_QjUvYaF?usp=sharing
+
 And move them into ./data/keyword_extraction
 
 # train
